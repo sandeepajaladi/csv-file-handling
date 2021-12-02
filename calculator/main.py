@@ -8,7 +8,7 @@ import logging
 
 
 class Calculator:
-    df = pd.read_csv(r"C:\Users\Niranjan Emmanuel\Downloads\Addition.csv - Sheet1.csv")
+    df = pd.read_csv("Tests/Data/Addition.csv- Sheet1.csv")
     filename="Addition.csv - Sheet1.csv"
 
 
@@ -20,20 +20,20 @@ class Calculator:
 
     def subtraction(df):
         df['Subtraction'] = df['Number 1'] - df['Number 2']
-        filename = "Addition.csv - Sheet1.csv"
+        filename = "Subtraction.csv - Sheet1.csv"
         logging.info("Subtraction Complete for Input file {}".format(filename))
         return df
 
     def multiplication(df):
             df['Multiplication'] = df['Number 1'] * df['Number 2']
-            filename = "Addition.csv - Sheet1.csv"
+            filename = "Multiplication.csv - Sheet1.csv"
             logging.info("Multiplication Complete for Input file {}".format(filename))
             return df
 
     def division(df):
 
                 df['Division'] = df['Number 1'] / df['Number 2']
-                filename = "Addition.csv - Sheet1.csv"
+                filename = "Division.csv - Sheet1.csv"
                 logging.info("Division Complete for Input file {}".format(filename))
                 return df
 
