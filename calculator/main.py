@@ -8,7 +8,7 @@ import logging
 
 
 class Calculator:
-    df = pd.read_csv("Tests/Data/Addition.csv- Sheet1.csv")
+    df = pd.read_csv("testdata/Addition.csv- Sheet1.csv")
     filename="Addition.csv - Sheet1.csv"
 
 
