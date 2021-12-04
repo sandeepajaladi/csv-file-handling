@@ -306,3 +306,87 @@ Name: Addition, dtype: int64
 Name: Addition, dtype: int64
 03/12/2021 19:16:39 Subtraction Complete for Input file Subtraction.csv - Sheet1.csv
 03/12/2021 19:16:39 Multiplication Complete for Input file Multiplication.csv - Sheet1.csv
+04/12/2021 00:02:46 Addition Complete for Input file Addition.csv and the result is 0    130
+1    113
+2    296
+3    345
+4    516
+5    665
+6    183
+7    715
+8    124
+Name: Addition, dtype: int64
+04/12/2021 00:02:46 Subtraction Complete for Input file Subtraction.csv - Sheet1.csv
+04/12/2021 00:02:46 Multiplication Complete for Input file Multiplication.csv - Sheet1.csv
+04/12/2021 00:08:28 Addition Complete for Input file Addition.csv and the result is 0    130
+1    113
+2    296
+3    345
+4    516
+5    665
+6    183
+7    715
+8    124
+Name: Addition, dtype: int64
+04/12/2021 00:08:28 Subtraction Complete for Input file Subtraction.csv - Sheet1.csv
+04/12/2021 00:08:28 Multiplication Complete for Input file Multiplication.csv - Sheet1.csv
+04/12/2021 00:12:29 Addition Complete for Input file Addition.csv and the result is 0    130
+1    113
+2    296
+3    345
+4    516
+5    665
+6    183
+7    715
+8    124
+Name: Addition, dtype: int64
+04/12/2021 00:12:29 Subtraction Complete for Input file Subtraction.csv - Sheet1.csv
+04/12/2021 00:12:29 Multiplication Complete for Input file Multiplication.csv - Sheet1.csv
+04/12/2021 00:13:43 Addition Complete for Input file Addition.csv and the result is 0    130
+1    113
+2    296
+3    345
+4    516
+5    665
+6    183
+7    715
+8    124
+Name: Addition, dtype: int64
+04/12/2021 00:13:43 Subtraction Complete for Input file Subtraction.csv - Sheet1.csv
+04/12/2021 00:13:43 Multiplication Complete for Input file Multiplication.csv - Sheet1.csv
+04/12/2021 00:14:44 Addition Complete for Input file Addition.csv and the result is 0    130
+1    113
+2    296
+3    345
+4    516
+5    665
+6    183
+7    715
+8    124
+Name: Addition, dtype: int64
+04/12/2021 00:14:44 Subtraction Complete for Input file Subtraction.csv - Sheet1.csv
+04/12/2021 00:14:44 Multiplication Complete for Input file Multiplication.csv - Sheet1.csv
+04/12/2021 00:24:34 Addition Complete for Input file Addition.csv and the result is 0    130
+1    113
+2    296
+3    345
+4    516
+5    665
+6    183
+7    715
+8    124
+Name: Addition, dtype: int64
+04/12/2021 00:24:34 Subtraction Complete for Input file Subtraction.csv - Sheet1.csv
+04/12/2021 00:24:34 Multiplication Complete for Input file Multiplication.csv - Sheet1.csv
+04/12/2021 01:03:49 Addition Complete for Input file Addition.csv and the result is 0    130
+1    113
+2    296
+3    345
+4    516
+5    665
+6    183
+7    715
+8    124
+Name: Addition, dtype: int64
+04/12/2021 01:03:49 Subtraction Complete for Input file Subtraction.csv - Sheet1.csv
+04/12/2021 01:03:49 Multiplication Complete for Input file Multiplication.csv - Sheet1.csv

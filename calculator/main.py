@@ -31,11 +31,13 @@ class Calculator:
         return df
 
 
-    def division(df):
-        df['Division'] = df['Number1'] / df['Number2']
-        filename = "Division.csv - Sheet1.csv"
-        logging.info("Division Complete for Input file {}".format(filename))
-        return df
+    def division(df1):
+        result = df1["Number1"]/df1["Number2"]
+        return result
+        #df['Division'] = df['Number1'] / df['Number2']
+        #filename = "Division.csv - Sheet1.csv"
+        #logging.info("Division Complete for Input file {}".format(filename))
+        #return df
 
     log = 'calculations.log'
     logging.basicConfig(filename=log, level=logging.DEBUG, format='%(asctime)s %(message)s',
